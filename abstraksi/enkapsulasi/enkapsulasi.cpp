@@ -2,12 +2,12 @@
 using namespace std;
  class remoteLampu {
     private:
-    string saklarNO[10];
+    string SaklarNO[10];
     public:
         void setsaklarNo(int i, string value) {
-            saklarNo[i] = value;
+            SaklarNo[i] = value;
         }
         string getsaklarNO(int i){
                 return saklarNo[i];
         }
- }
+ };
