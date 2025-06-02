@@ -21,5 +21,12 @@ void display() {
     
 };
 
+int main() {
+    Abstraksiklas ak;
+    ak.setXY ("yogyakarta", "kampus");
+    ak.display();
+
+    return 0;
+};
 
 
