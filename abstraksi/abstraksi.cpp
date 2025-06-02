@@ -11,4 +11,15 @@ class Abstraksiklas {
         x = a;
         y = b;
     }
-}
+
+    
+void display() {
+     cout << "y =" << y << endl;
+    cout << "y =" << x << endl;
+
+    }
+    
+};
+
+
+
